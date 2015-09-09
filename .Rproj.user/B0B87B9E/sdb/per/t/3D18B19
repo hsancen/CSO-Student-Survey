@@ -1,0 +1,18 @@
+{
+    "contents" : "#Author: Hugo Sancen\n#Date: 09/08/15\n#Purpose: Exploratory analysis of CSO's student survey data\n\n#load data\nread.table(\"data.csv\", header = T, stringsAsFactors = F)\n",
+    "created" : 1441763069613.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2159471943",
+    "id" : "3D18B19",
+    "lastKnownWriteTime" : 1441763376,
+    "path" : "C:/Users/Hugo/Dropbox/CSO Volunteering/Student Survey/analysis.R",
+    "project_path" : "analysis.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
